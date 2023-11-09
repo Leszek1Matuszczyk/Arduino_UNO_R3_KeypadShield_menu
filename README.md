@@ -3,8 +3,6 @@ Simple menu using Arduino uno and keypad shield
 
 # Arduino Menu Control Project
 
-![Arduino Menu Control](arduino_menu.jpg)
-
 ## Overview
 
 This Arduino project provides a simple menu system for controlling the brightness of LEDs using button inputs. It utilizes an Arduino Uno and a keypad shield for user interaction. Relevant information is displayed on a Liquid Crystal Display (LCD). The code is extensively commented for easy comprehension.
